@@ -3,10 +3,9 @@
 Passionate about programming.
 
 - **Main language**: Python
-- **Experience**: 6 years of coding
+- Interested in app design, automation, and developer tooling
 
-## My Projects
+## Projects
 
 ### [PyCompiler_ARK](https://github.com/raidos23/PyCompiler_ARK)
-A personal project I created to explore programming and develop my skills.
-
+A personal project I built to explore app design and keep improving my skills.
