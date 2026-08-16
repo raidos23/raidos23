@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi 👋, i'm Sam
 
 Passionate about programming.
 
