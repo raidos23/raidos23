@@ -1,6 +1,6 @@
-# Hi 👋, i'm Sam
+# Hi 👋, I'm Sam
 
-Passionate about programming.
+I'm 15 years old and passionate about programming.
 
-- **Main language**: Python
-- Interested in app design, automation, and developer tooling
+- **Main language:** Python
+- Interested in App design, automation, and developer tooling
